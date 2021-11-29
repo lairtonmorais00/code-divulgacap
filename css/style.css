@@ -1,6 +1,7 @@
 body {
   background-color: orange;
   border: 1px dashed rgb(1, 1, 46);
+  font-family: algerian;
 }
 
 h1 {
@@ -23,18 +24,16 @@ a {
   text-decoration: none;
 }
 button a:hover {
-  color: black;
+  color: purple;
 }
 select {
   color: rgb(3, 3, 39);
-  max-width: 400px;
-  margin-left: 25px;
+  max-width: 300px;
 
   height: 40px;
 
   font-size: 20px;
   text-align: center;
-
   background-color: red;
 }
 option {
