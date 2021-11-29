@@ -1,2 +1,2 @@
-# code-divulgacap
+# DivulgaCap-code
 Created with CodeSandbox

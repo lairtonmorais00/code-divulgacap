@@ -1,0 +1,46 @@
+body {
+  background-color: orange;
+  border: 1px dashed rgb(1, 1, 46);
+}
+
+h1 {
+  color: purple;
+  background-color: pink;
+  width: 250px;
+}
+
+button {
+  color: yellow;
+  background-color: beige;
+  font-size: 20px;
+  border-radius: 7px;
+  box-shadow: 200px;
+}
+h3 {
+  color: red;
+}
+a {
+  text-decoration: none;
+}
+button a:hover {
+  color: black;
+}
+select {
+  color: rgb(3, 3, 39);
+  max-width: 450px;
+  margin-left: 25px;
+
+  height: 40px;
+
+  font-size: 20px;
+  text-align: center;
+
+  background-color: red;
+}
+option {
+  color: lightgreen;
+  background-color: black;
+  width: 450px;
+  margin-left: 25px;
+  font-size: 20px;
+}
