@@ -27,7 +27,7 @@ button a:hover {
 }
 select {
   color: rgb(3, 3, 39);
-  max-width: 450px;
+  max-width: 400px;
   margin-left: 25px;
 
   height: 40px;
